@@ -1,5 +1,12 @@
 # 🚗 Route Optimization Using Algorithms
 
+**TEAM MEMEBERS**
+G.Mahidhar -- AP24110011386
+K.Sathvik  -- AP24110011388
+J.vamsi    -- AP24110011282
+T.Nasar    -- AP24110011389
+SK.Nizam   -- AP24110011369
+
 > **CCC Algorithm Project** — Demonstrating Greedy & Dynamic Programming through City Route Optimization
 
 ---
@@ -75,21 +82,6 @@ Airport ─(4)─ BusStand ─(8)─ Downtown
   │                │               │
 CityCenter ─(7)─ EastMarket ─(6)─ Fort ─(2)─ EndPoint
      └──────(1)──────────────────────┘
-```
-
----
-
-## ▶️ How to Run
-
-**Requirements:** Python 3.7+ (no external libraries needed)
-
-```bash
-# Clone the repo
-git clone https://github.com/<your-username>/route-optimizer.git
-cd route-optimizer
-
-# Run the program
-python main.py
 ```
 
 ### Menu Options
