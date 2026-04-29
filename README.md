@@ -3,7 +3,7 @@
 TEAM MEMEBERS
 - 1)G.Mahidhar -- AP24110011386
 - 2)K.Sathvik  -- AP24110011388
-= 3)J.vamsi    -- AP24110011282
+- 3)J.vamsi    -- AP24110011282
 - 4)T.Nasar    -- AP24110011389
 - 5)SK.Nizam   -- AP24110011369
 ---
